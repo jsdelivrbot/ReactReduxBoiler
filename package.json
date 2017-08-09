@@ -2,6 +2,7 @@
   "name": "reactreduxboiler",
   "version": "0.0.1",
   "description": "Boiler for React Redux App",
+  "repository": "git@github.com:MarlonFischer/ReactReduxBoiler.git" ,
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
