@@ -1,5 +1,7 @@
 # ReactReduxBoiler
 
+Start a React Redux project with updated dependencies
+
 ### Get Started
 
 ```
